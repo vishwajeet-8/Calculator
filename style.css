@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 13px;
+    cursor: pointer;
+    background-color: rgb(218, 137, 56);
+    font-size: large;
+    width: 60px;
+}
+
+.rows{
+    margin: 8px 0;
+}
+
+.rows input{
+    border: 2px solid black;
+    padding: 8px 3px;
+    border-radius: 3px;
+    margin: 0;
+    font-size: 20px;
+}
